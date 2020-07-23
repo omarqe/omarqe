@@ -1,6 +1,6 @@
 
 
-[![omvr](./logo.svg)](https://omvr.io)
+[![omvr.io](https://img.omvr.io/logo.svg)](https://omvr.io)
 
 
 
@@ -20,4 +20,4 @@ I am **Omar,** a software engineer based in Malaysia. I enjoy building things an
 
 You can find me on:
 
-[![Twitter](./twitter.svg)](https://twitter.com/omarqe) [![LinkedIn](./linkedin.svg)](https://www.linkedin.com/in/omarqe) [![Instagram](./instagram.svg)](https://www.instagram.com/omarqe)
+[![Twitter](https://img.omvr.io/twitter.svg)](https://twitter.com/omarqe) [![LinkedIn](https://img.omvr.io/linkedin.svg)](https://www.linkedin.com/in/omarqe) [![Instagram](https://img.omvr.io/instagram.svg)](https://www.instagram.com/omarqe)
