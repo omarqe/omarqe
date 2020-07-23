@@ -6,8 +6,7 @@
 
 ## 👋 Hello there!
 
-I am **Omar,** a software engineer based in Malaysia. I enjoy building things and thus far had built web and mobile apps for small to big companies and organisations locally. Apart of writing codes, I do UI/UX design and also write stuffs about Computer Science and IT on Twitter and my blog.
-
+I am **Omar,** a software engineer based in Malaysia. I enjoy building things and thus far had built web and mobile apps for small to big companies and organisations locally. Apart of writing codes, I design modern and beautiful UI/UX and also write stuffs about Computer Science and IT on Twitter and my blog.
 
 
 **Backend:** PHP, SQL, Go, Java
@@ -16,7 +15,7 @@ I am **Omar,** a software engineer based in Malaysia. I enjoy building things an
 
 **Cloud Technologies:** DigitalOcean, Vultr
 
-
+___
 
 You can find me on:
 
