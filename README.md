@@ -4,7 +4,7 @@
 
 
 
-### 👋 Hello there!
+# 👋 Hello there!
 
 I am **Omar,** a software engineer based in Malaysia. I enjoy building things and thus far had built web and mobile apps for small to big companies and organisations locally. Apart of writing codes, I do UI/UX design and also write stuffs about Computer Science and IT on Twitter and my blog.
 
